@@ -1,0 +1,35 @@
+body{
+
+}
+a:link{
+color: #ff0000;
+
+}
+a:visited{
+color: #00ff00;
+}
+a:hover{
+color: black;
+}
+a:active{
+color: #0000ff;
+}
+a{
+text-decoration: none;
+}
+#overflow{
+color: white;
+background: blue;
+overflow-x: hidden;
+float:right;
+clear:inherit;
+}
+img{
+margin-top: 75px;
+margin-right: 110px;
+width: 50%;
+}
+#fat{
+color: hotpink;
+float:inherit;
+}

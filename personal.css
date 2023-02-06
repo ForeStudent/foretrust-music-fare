@@ -1,0 +1,22 @@
+body{
+
+}
+#signupbox{
+border:1px solid black;
+width: 800px;
+height: 450px;
+background-color: white;
+text-align: center;
+margin-left: 170px;
+margin-right: 300px;
+margin-top: 50px;
+padding-top: 100px;
+background: white;
+color:black;
+padding-left: 100px;
+padding-right: 100px;
+}
+button{
+background: blue;
+color: white;
+}
